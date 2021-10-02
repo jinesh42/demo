@@ -1,2 +1,3 @@
-# demo
-learning purpose
+#Learning by my self. 
+
+Hey this is me
